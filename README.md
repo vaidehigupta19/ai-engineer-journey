@@ -19,15 +19,15 @@ Foundation for everything that follows: writing clean, working code and reasonin
 ### 2. Data Analysis
 The day-to-day toolkit for exploring, cleaning, and understanding data before any modeling happens.
 - [x] NumPy — array creation, indexing, vectorized operations, broadcasting
-- [ ] Pandas — DataFrames, filtering, grouping, merging, cleaning, missing-value handling
-- [ ] Data visualization — Matplotlib and Seaborn (distributions, correlations, categorical plots)
+- [x] Pandas — DataFrames, filtering, grouping, merging, cleaning, missing-value handling
+- [x] Data visualization — Matplotlib and Seaborn (distributions, correlations, categorical plots)
 - [ ] Exploratory Data Analysis (EDA) — structured workflow from raw dataset to documented insights
 
 ### 3. SQL
 The standard interface for working with structured data at scale — a near-universal requirement in data and ML roles.
-- [ ] Querying, filtering, sorting (`SELECT`, `WHERE`, `ORDER BY`)
-- [ ] Aggregations and `GROUP BY`
-- [ ] Joins — inner, outer, left, right
+- [x] Querying, filtering, sorting (`SELECT`, `WHERE`, `ORDER BY`)
+- [x] Aggregations and `GROUP BY`
+- [x] Joins — inner, outer, left, right
 - [ ] Subqueries, CTEs, and window functions
 
 ### 4. Statistics & Probability

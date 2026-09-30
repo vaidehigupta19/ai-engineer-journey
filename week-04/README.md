@@ -48,7 +48,7 @@ Build the statistical foundation everything downstream (ML metrics, model evalua
 - Ran a t-test in Python using `scipy.stats`
 
 ## 🧠 Key takeaways
-> Write 2–4 sentences in your own words — which topic clicked fastest, which took a few tries, and one thing that felt different once you implemented it in Python versus just watching the video.
+This week helped me understand statistics as a way of making sense of data rather than just memorizing formulas. Descriptive statistics and probability clicked relatively quickly, while hypothesis testing and p-values took a few tries to fully understand. Implementing correlation, distributions, and t-tests in Python made the concepts much clearer because I could see the numbers and results instead of only working with formulas.
 
 ## ✅ Checkpoint
 **🎉 Phase 1 complete.** By the end of this week I could describe a dataset's center and spread, reason about probability and conditional probability (including Bayes' Theorem), recognize which distribution a situation calls for, run and interpret a hypothesis test, and compute correlation — the statistical foundation Python, Pandas, and SQL now sit on top of.
